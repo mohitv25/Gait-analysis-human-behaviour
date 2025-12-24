@@ -1,4 +1,4 @@
-# Stride Sentinel MK-I: Gait Recognition Demo
+# Gait Analysis for Human Behaviour
 A real-time gait-based human identification system using Computer Vision and Machine Learning.
 
 ---

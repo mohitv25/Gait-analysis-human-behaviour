@@ -34,3 +34,15 @@ Use the application interface to register and recognize individuals based on the
 - Create a folder named "gei" in the working directory for storing the "Gait Energy Images."
 - Save the xml file with ".ui" extension in the working directory.
 - Ensure that the ui file name is accurately specified in the src.
+
+  ## 📸 Screenshots
+
+### Initialization
+![Initialization](assets/Initialization.jpg)
+
+### Registration
+![Registration](assets/Registration.jpg)
+
+### Recognition / Output
+![Recognition](assets/Recognition.jpg)
+

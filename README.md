@@ -1,14 +1,28 @@
 # Stride Sentinel MK-I: Gait Recognition Demo
+A real-time gait-based human identification system using Computer Vision and Machine Learning.
+
+---
+
+## 🚀 Features
+- Real-time video capture using webcam
+- Silhouette extraction and GEI generation
+- SVM-based person recognition
+- PyQt5 GUI for registration and live inference
+- Custom dataset collection
+
+  
 ## Libraries to be Downloaded
+
 To run this project, you need the following Python libraries:
 
-- OpenCV (pip install opencv-python
+-OpenCV (pip install opencv-python)
 - Pillow (PIL) (pip install Pillow)
 - PyQt5 (pip install PyQt5)
-- Numpy (pip install numpy)
-- os
-- sys
-- PySide6 (pip install PySide6)
+- NumPy (pip install numpy)
+- scikit-learn (pip install scikit-learn)
+- os (built-in)
+- sys (built-in)
+  
 ## Implementation
 Use the application interface to register and recognize individuals based on their gait patterns.
 

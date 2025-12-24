@@ -35,15 +35,16 @@ Use the application interface to register and recognize individuals based on the
 - Save the xml file with ".ui" extension in the working directory.
 - Ensure that the ui file name is accurately specified in the src.
 
- ## 📸 Screenshots
+## 📸 Screenshots
 
 ### Initialization
-![Initialization](assets/Initialization.jpg)
+![Initialization](Initialization.jpg)
 
 ### Registration
-![Registration](assets/Registration.jpg)
+![Registration](Registration.jpg)
 
 ### Recognition / Output
-![Recognition](assets/Recognition.jpg)
+![Recognition](Recognition.jpg)
+
 
 

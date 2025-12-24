@@ -15,7 +15,7 @@ A real-time gait-based human identification system using Computer Vision and Mac
 
 To run this project, you need the following Python libraries:
 
--OpenCV (pip install opencv-python)
+- OpenCV (pip install opencv-python)
 - Pillow (PIL) (pip install Pillow)
 - PyQt5 (pip install PyQt5)
 - NumPy (pip install numpy)
